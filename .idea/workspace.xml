@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c53990ef-21c3-4d81-9b40-f14dc7e80f15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mjpQpUoXN3tiWWbAItytJR9889" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\flask_pro\App" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.flask_pro">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_restful" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_pro" type="Python.FlaskServer">
+      <option name="flaskDebug" value="true" />
+      <module name="flask_restful" />
+      <option name="target" value="$PROJECT_DIR$/manage.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\study\flask_pro\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53990ef-21c3-4d81-9b40-f14dc7e80f15" name="Default Changelist" comment="" />
+      <created>1610016840577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610016840577</updated>
+      <workItem from="1610016854985" duration="3265000" />
+      <workItem from="1610021128714" duration="2963000" />
+      <workItem from="1610031126271" duration="5737000" />
+      <workItem from="1610080021226" duration="2411000" />
+      <workItem from="1610116910750" duration="1988000" />
+      <workItem from="1610164400919" duration="1772000" />
+      <workItem from="1610173653281" duration="871000" />
+      <workItem from="1610255913355" duration="369000" />
+      <workItem from="1610257203618" duration="644000" />
+      <workItem from="1610273885092" duration="1320000" />
+      <workItem from="1610377980529" duration="1887000" />
+      <workItem from="1610432388162" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="343" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610034840806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="343" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610034840806" />
+    <state x="620" y="172" key="#views" timestamp="1610021238809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="172" key="#views/0.0.1920.1040@0.0.1920.1040" timestamp="1610021238809" />
+    <state width="1235" height="223" key="GridCell.Tab.0.bottom" timestamp="1610379882093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610379882093" />
+    <state width="1235" height="223" key="GridCell.Tab.0.center" timestamp="1610379882093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610379882093" />
+    <state width="1235" height="223" key="GridCell.Tab.0.left" timestamp="1610379882093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610379882093" />
+    <state width="1235" height="223" key="GridCell.Tab.0.right" timestamp="1610379882093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610379882093" />
+    <state x="593" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1610432388811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610432388811" />
+    <state x="610" y="270" width="786" height="600" key="find.popup" timestamp="1610378003279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="610" y="270" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610378003279" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_pro$flask_pro.coverage" NAME="flask_pro Coverage Results" MODIFIED="1610174220270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_restful$flask_pro.coverage" NAME="flask_pro Coverage Results" MODIFIED="1610379363203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_pro$views.coverage" NAME="views Coverage Results" MODIFIED="1610021848577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+  </component>
+</project>
